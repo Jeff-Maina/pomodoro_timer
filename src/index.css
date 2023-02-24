@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit");
+
+:root{
+  --theme-color: #ee6e70;
+  --background-color: #1f2140;
+  --text-color: #d7e0fe;
+  --component-color: #161a32;
+  --nav-text-color: #63677f;
+  --settings-background-color: aliceblue;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  font-family: Outfit;
+}
