@@ -1,12 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit");
 
 :root{
-  --theme-color: #ee6e70;
+  --theme-color: rgb(238, 110, 112);
   --background-color: #1f2140;
   --text-color: #d7e0fe;
   --component-color: #161a32;
   --nav-text-color: #63677f;
   --settings-background-color: aliceblue;
+  --popup-text-color: rgb(72, 72, 72);
 }
 
 body{
